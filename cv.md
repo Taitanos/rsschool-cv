@@ -56,8 +56,8 @@ const humanYearsCatYearsDogYears = humanYears => [
 
 ### **Courses:**
 
-- HTML/CSS for React Dev in IT Incubator (completed 2024) 
-- React: Frontend-developer in ITMO (in progress)
+- HTML/CSS for React Dev in IT Incubator (completed 2024) [IT Incubator](https://it-incubator.io/education/html-css-in-react)
+- React: Frontend-developer in ITMO (in progress) [ITMO](https://cdpo.itmo.ru/react)
 
 I have made several projects using React, both single-page and full-fledged applications, you can see my work in [my portfolio](https://taitanos.github.io/portfolio/)
 
